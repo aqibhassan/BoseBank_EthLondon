@@ -46,6 +46,7 @@ The Scope of the service is to create financial literacy and encourage saving fr
 This product can benefit individuals who rely on high interest loans or payday loans, this service can also benefit
 current mortgage holders who are struggling to meet regular repayments or who may be in negative equity.
 
+<hr>
 
 > ## Wireframes
 
