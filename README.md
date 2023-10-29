@@ -105,9 +105,6 @@ Low income user who is in arrears on their mortgage repayments and cannot mainta
 Borrower has digital asset to the value of €1100 which the user places against a loan as collateral for €1000 + 10% interest. User agrees term of 11 months @ €100 per month. The borrower makes 5 payments of €100. During this period the value of the asset drops to €600, the borrower
 decides not to continue with the repayment of the loan. The asset + €500 paid in the 5 monthly installments revert to the lender.
 
-> ## Instruction pipeline
-![Alt text](EthLondon-Instructions.drawio.png)
-
 > ## SWOT
 
 - Strengths
