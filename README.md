@@ -48,9 +48,15 @@ current mortgage holders who are struggling to meet regular repayments or who ma
 
 
 > ## Wireframes
-### Landing Page:
+
+### Landing Page selected:
 <p align="center">
-  <img width="600" height="600" src="">
+  <img width="600" height="600" src="https://github.com/aqibhassan/DefiBank_EthLondon/blob/main/homepage.jpg">
+</p>
+
+### Social Login:
+<p align="center">
+  <img width="600" height="600" src="https://github.com/aqibhassan/DefiBank_EthLondon/blob/main/social%20login.jpg">
 </p>
 
 <video src="https://github.com/Karlitoyo/BossBank-EthLondon/assets/30006896/89aced81-b114-4d84-97e4-61d6512a0f0d"></video>
@@ -58,21 +64,6 @@ current mortgage holders who are struggling to meet regular repayments or who ma
 ### Dashboard:
 <p align="center">
   <img width="600" height="600" src="https://github.com/aqibhassan/DefiBank_EthLondon/blob/main/dashboard.jpg">
-</p>
-
-### Lending Page selected:
-<p align="center">
-  <img width="600" height="600" src="https://github.com/aqibhassan/DefiBank_EthLondon/blob/main/homepage.jpg">
-</p>
-
-### Borrow Page:
-<p align="center">
-  <img width="600" height="600" src="">
-</p>
-
-### Borrow Page selected:
-<p align="center">
-  <img width="600" height="600" src="">
 </p>
 
  > ## Current-Features
