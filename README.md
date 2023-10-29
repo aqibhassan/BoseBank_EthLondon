@@ -65,7 +65,7 @@ current mortgage holders who are struggling to meet regular repayments or who ma
   <img width="600" height="600" src="https://github.com/aqibhassan/DefiBank_EthLondon/blob/main/dashboard.jpg">
 </p>
 
-<video src="video-project_compressed"></video>
+<video src="https://github.com/aqibhassan/DefiBank_EthLondon/blob/main/video-project_compressed.mp4"></video>
 
  > ## Current-Features
 
