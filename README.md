@@ -62,7 +62,7 @@ current mortgage holders who are struggling to meet regular repayments or who ma
 
 ### Lending Page selected:
 <p align="center">
-  <img width="600" height="600" src="">
+  <img width="600" height="600" src="https://github.com/aqibhassan/DefiBank_EthLondon/blob/main/homepage.jpg">
 </p>
 
 ### Borrow Page:
