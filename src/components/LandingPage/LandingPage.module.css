@@ -1,0 +1,74 @@
+.container {
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .heroSection {
+    position: relative;
+    height: 500px;
+  }
+  
+  .heroContent {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    text-align: center;
+  }
+  
+  .features {
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 100px;
+  }
+  
+  .feature {
+    flex: 1;
+    text-align: center;
+    margin: 0 20px;
+    
+  }
+  
+  .feature h2 {
+    margin-top: 20px;
+  }
+  
+  .feature p {
+    margin-top: 10px;
+    color: gray;
+  }
+  
+  .footer {
+    text-align: center;
+    padding: 20px 0;
+    background-color: #f4f4f4;
+  }
+  
+  .loginButtonContainer {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    z-index: 10; /* This ensures it's on top of other positioned elements */
+  }
+  
+  .modalOverlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000; /* A high value to ensure the modal is on top of other elements */
+  }
+  
+  .modalContent {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    width: 300px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
